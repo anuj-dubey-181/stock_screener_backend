@@ -1,0 +1,20 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+__pycache2__/
+*.pyc
+*.pyd
+# ignore specific backend files
+backend/create_tables.py
+backend/insert_company.py
+backend/seed_historical.py
+backend/seed_symbol.py
+backend/fundamentals_seed.py
+backend/test_pipeline.py
+backend/test_post.py
+backend/logs
+backend/init_db.py
+backend/redis_benchmark.py
+*.db
+venv/
