@@ -98,7 +98,7 @@ The platform also includes portfolio tracking, watchlist management, alerts, sea
 ## How to Run
 
 Go to website : https://stock-screener1.onrender.com
-Fastapi Document : https://stock-screener-backend-okep.onrender.com
+Fastapi Document : https://stock-screener-backend-okep.onrender.com/docs
 
 
 ## Example Queries
