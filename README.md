@@ -97,23 +97,8 @@ The platform also includes portfolio tracking, watchlist management, alerts, sea
 
 ## How to Run
 
-### Install dependencies
-
-```
-pip install -r requirements.txt
-```
-
-### Create database
-
-```
-python backend/database/create_db.py
-```
-
-### Run backend
-
-```
-uvicorn backend.main:app --reload
-```
+Go to website : https://stock-screener1.onrender.com
+Fastapi Document : https://stock-screener-backend-okep.onrender.com
 
 
 ## Example Queries
